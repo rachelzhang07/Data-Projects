@@ -21,9 +21,9 @@ Aria Ling, Haoran Zhang
 Haoran Zhang  
 [Clean-Eating in Manhattan, Exploring Vegetarian-friendly Restaurants and Neighborhoods](https://rachelzhang07.github.io/yelp_api_clean-eating/)
   
-#### 3. CitiBike Data, Bicycling Travel Pattern: Urban Data + Informatics (Fall 2019)  
+#### 3. Dual Personalities of CitiBike -- Travel Patterns of Bike commuters on weekdays & on weekends: Urban Data + Informatics (Fall 2019)  
 Haoran Zhang  
-[CitiBike Data, Bicycling Travel Pattern] 
+[CitiBike Data, Bicycling Travel Pattern](https://rachelzhang07.github.io/CitiBike_travel-patterns/)
 
 #### 4. Can Higher Education Change Us?- Education and Economic Mobility: Urban Data + Informatics (Fall 2019)  
 Haoran Zhang  
