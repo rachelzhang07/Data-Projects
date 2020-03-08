@@ -1,6 +1,6 @@
-# Urban Data Analytic
+# Urban Data Analytics
 Haoran (Rachel) Zhang  
-Candidate, Master of Science in Urban Planning, Concentrate in Urban Analytic and Built Environment  
+Candidate, Master of Science in Urban Planning, Concentrate in Urban Analytics and Built Environment  
 
 ### Geographic Information System Projects
 #### 1. How to Decorbanize Manhattan, New York City? GIS Final Project (Fall 2019) 
