@@ -11,6 +11,7 @@ Aria Ling, Qingyuan Li, Haoran Zhang
 Haoran Zhang  
 [Projects in class, GIS Projects](https://zhanghaoran.myportfolio.com/urban-data-analytics-gis-project-1)
 
+<hr>  
 
 ### Urban Data + Informatics
 #### 1. Interactive Map: Urban Data + Informatics Final Project (Fall 2019)  
@@ -28,6 +29,8 @@ Haoran Zhang
 #### 4. Can Higher Education Change Us?- Education and Economic Mobility: Urban Data + Informatics (Fall 2019)  
 Haoran Zhang  
 [HTML Project: Can Higher Education Change Us?- Education and Economic Mobility](https://rachelzhang07.github.io/d3plus_Education-and-Economic-Mobility)
+
+<hr>  
 
 ### Urban Design and Planning: Portforlio  
 Haoran Zhang  
