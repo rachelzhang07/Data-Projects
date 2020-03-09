@@ -28,7 +28,7 @@ Haoran Zhang
 
 #### 4. Can Higher Education Change Us?- Education and Economic Mobility: Urban Data + Informatics (Fall 2019)  
 Haoran Zhang  
-[HTML Project: Can Higher Education Change Us?- Education and Economic Mobility](https://rachelzhang07.github.io/d3plus_Education-and-Economic-Mobility)
+[HTML Project: Can Higher Education Change Us?- Education and Economic Mobility](https://rachelzhang07.github.io/d3plus/)  
 
 <hr>  
 
