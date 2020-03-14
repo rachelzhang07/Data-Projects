@@ -13,9 +13,7 @@ Haoran Zhang
 
 #### 3. Network Analysis (In progress) 
 First, we need to conduct a baseline analysis citywide to identify the vulnerability of the traffic network mainly including subway network and roadway network. Thus, we will acquaint a general knowledge of centrality, sensitivity and criticality. (Betweenness, closeness, giant component, adaptive capacity).  
-		 
 Then, a specific scenario will be set when the crowd is gathering at Times Square on New Year Eve and trying to evacuate after the event. We assume that they will return to their accommodations which are simplified as hotels in NYC so the optimal routines should be created to connect those places. The minimal travel cost and minimal travel time approaches may be entailed in searching for the routines. All trips will be aggregated together on the roadway network to see whether there is any difference between this most likely network and the abovementioned baseline network. (the optimal routines and the traffic flow will be based on TLC Trip Record Data)  
-		 
 After that, we continue to explore the response of the traffic network in the scenario that some infrastructure happens to fail. We plan to test two scenarios including the subway station shutting down and roadway closure. If the variance of travel cost and travel time is under a certain threshold, we regard it as no significant impact on network resilience.   
 
 <hr>  
