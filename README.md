@@ -5,7 +5,7 @@ Candidate, Master of Science in Urban Planning, Concentrate in Urban Analytics a
 ### Geographic Information System Projects
 #### 1. How to Decorbanize Manhattan, New York City? GIS Final Project (Fall 2019) 
 Aria Ling, Qingyuan Li, Haoran Zhang  
-[How to Decorbanize Manhattan, New York City? GIS Project](https://zhanghaoran.myportfolio.com/how-to-decorbanize-manhattan-new-york-3citygis)  
+[How to Decorbanize Manhattan, New York City? GIS Project](https://zhanghaoran.myportfolio.com/how-to-decorbanize-manhattan-new-york-citygis)  
 
 #### 2. Projects in class, GIS Projects (Fall 2019) 
 Haoran Zhang  
