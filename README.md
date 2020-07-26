@@ -23,7 +23,7 @@ After that, we continue to explore the response of the traffic network in the sc
 ### Urban Data + Informatics
 #### 1. Interactive Map: Urban Data + Informatics Final Project (Fall 2019)  
 Aria Ling, Haoran Zhang  
-[Puppy Paws: for Dog Lovers in New York City](https://ziweiling.github.io/)  
+[Puppy Paws: for Dog Lovers in New York City](https://github.com/rachelzhang07/interactivemap)  
   
 #### 2. Yelp Data, API: Urban Data + Informatics (Fall 2019)  
 Haoran Zhang  
